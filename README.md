@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**nwlidayarathna/nwlidayarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isurindi.
 
-Here are some ideas to get you started:
+🎓 Data Science Undergraduate | Plymouth University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- Python
+- SQL
+- Data Analysis
+- R Language
+- Figma
+- Dart
+- HTML
+- CSS
+- Java Script
+- Firebase
+- C# (Beginner)
+- Flutter (Beginner)
+
+🚀 Currently:
+- Building data science projects
+- Improving problem-solving skills
+- Building Mobile-based applications
+- Building Web applications
+
+📫 Reach me:
+- Email: lahiruneeisurindi1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lahirunee-isurindi-46a134292
+
+🔍 Actively seeking internship opportunities
